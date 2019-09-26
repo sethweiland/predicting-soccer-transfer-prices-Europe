@@ -19,6 +19,7 @@
 * df_g_trends.feather has the results of the pytrends queries which I ended up not using due to reason mentioned above. 
 
 
+### If any jupyter notebooks do not render in github you can always view them in https://nbviewer.jupyter.org/ if you copy and paste the github notebook link. 
 
 
 
